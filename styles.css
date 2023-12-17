@@ -1,0 +1,66 @@
+/* header */
+.header-logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    background-color: #ff0000; 
+    color: #fff; 
+    width: 80px; 
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px; 
+}
+
+.logo span {
+    font-size: 20px; 
+}
+.header-title h1 {
+    margin: 10px;}
+span {
+    color: red;
+}
+/* nội dung */
+.card-img-top {
+   
+    height: 200px;
+}
+/* footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-logo h1 {
+    color: #fff;
+    margin: 0;
+}
+
+.footer-links ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-links ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-social img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+

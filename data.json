@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Bánh chưng",
+        "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-bac-1.jpg",
+
+        "description": " Bánh chưng là sự kết hợp hài hòa giữa gạo nếp dẻo, đậu xanh ngọt bùi, vị tiêu cay nhẹ, thịt lợn béo ngậy và được gói vuông bằng lá dong tạo nên hương vị ngày Tết không thể lẫn vào đâu được.",
+        "materials": "Nguyên liệu: Gạo nếp cái hoa vàng, đậu xanh, thịt ba chỉ, muối, hạt nêm, tiêu, 1 bó lạt tre mềm (hoặc lạt giang), lá dong"},
+
+    {
+        "name": "Xôi gấc",
+        "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-bac-2.jpg",
+
+        "description": "Xôi gấc được nấu từ gạo nếp ngon trộn lẫn với thịt quả gấc tươi rồi cho vào nồi hấp. Sau khi xôi chín sẽ có màu đỏ tươi rất đẹp mắt, thơm ngon mà lại rất bổ dưỡng với hàm lượng vitamin A cao.",
+        "materials":"Nguyên liệu: gấc, gạo nếp, nước cốt dừa, đường, muối, 2 muỗng canh rượu trắng, dầu mè"
+    },
+    {
+        "name": "Thịt ngâm mắm",
+        "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-trung-4.jpg",
+
+        "description": "Vào mỗi dịp Tết đến, thịt ngâm mắm là món ăn khá phổ biến ở các tỉnh miền Trung. Thịt ngâm mắm có vị mặn mặn, ngọt ngọt thường ăn kèm với cơm trắng, xôi nếp, bánh tét hay dưa món chua ngọt và rau sống, rau thơm.",
+        "materials":"Nguyên liệu: Thịt ba rọi, nước mắm, đường cát, gia vị: tiêu hạt, ớt, tỏi, gừng, hành tím"
+       
+    }, {
+        "name": "Nem chua",
+        "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-trung-2.jpg",
+
+        "description": "Đây là món ăn đặc sản được làm từ thịt heo tẩm ướp gia vị, trộn chung với thính gạo rồi gói lại trong lá ổi hoặc lá chùm ruột để trong vài ngày sẽ có vị chua, dai dai, cay cay, ăn rất hấp dẫn. Nem chua miền Trung thường có vị chua dịu nhẹ và được ăn kèm với tỏi để tăng thêm  hương vị.",
+        "materials": "Nguyên liệu: thịt lợn, bì lợn, thính, gia vị làm nem chua, nước mắm, hạt nêm, đường, hạt tiêu"
+    }, {
+        "name": "Canh bóng bì lợn",
+        "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-bac-7.jpg",
+
+        "description": "Món ăn này có vị ngọt thanh của nước dùng, thịt mọc béo ngậy, bóng bì giòn sần sật, hương nấm thơm lừng và các loại rau củ giúp tạo nên hương vị trọn vẹn cho món ăn",
+        "materials":"Nguyên liệu: bóng bì, thịt lợn nạc, xương sống, tôm nõn, chim cút, đậu hà lan, nấm hương,bột ngọt, rượu trắng, gừng tươi..."
+    }, {
+        "name": "Dưa món",
+        "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-trung-3.jpg",
+
+        "description": "là món ăn được kết hợp từ nhiều nguyên liệu như cà rốt, đu đủ, củ kiệu, dưa leo,... Người miền Trung thường ăn bánh tét dẻo mềm cùng với dưa món giòn giòn, chua chua mang lại cảm giác ngon miệng khó quên.",
+        "materials": "Nguyên liệu: cà rốt, su hào, đu đủ xanh, củ kiệu, ớt, đường, nước mắm"
+    }, {
+        "name": "Thịt đông",
+        "imgUrl":"https://statics.vincom.com.vn/xu-huong/0-0-0-mon-an-ngay-tet/image2.png",
+
+        "description": "Thịt nấu đông là một món ăn thơm ngon và hấp dẫn, thường là món ăn để đãi khách trong các dịp Tết. Thịt đông khi ăn có vị ngọt mềm, màu trong veo đẹp mắt, gia vị hoà quyện tạo nên một món ăn hài hoà.",
+        "materials":"Nguyên liệu: thịt chân giò rút xương, tai heo, nấm hương, mộc nhĩ, bắp hạt, cà rốt, hành tím, gừng, hành lá, ngò rí, tỏi, ớt, dầu ăn"
+    }, {
+        "imgUrl":"",
+        "name": "Chè kho",
+        "description": "Chè kho là món ăn đặc trưng được nhiều gia đình miền Bắc lựa chọn vào các dịp lễ Tết. Món ăn này được tạo nên từ 2 nguyên liệu chính là đậu xanh và đường. Sự hòa quyện của 2 nguyên liệu này đã khiến người ăn khó cưỡng lại trước sự hấp dẫn mà món chè kho mang lại",
+        "materials":"Nguyên liệu: đậu xanh cả vỏ, nước cốt dừa, đường, muối"
+    }, {
+        "imgUrl":"",
+        "name": "Tré",
+        "description": "Tré là món ăn xuất phát từ cung đình và chỉ dành cho các bậc vua chúa vương giả. Ngày nay, người ta quan niệm rằng ăn tré trong ngày Tết sẽ tạo được bầu không khí ấm cúng, sum vầy trong gia đình. ",
+        "materials": "Nguyên liệu: tai heo, thịt ba chỉ, da heo,mè rang, thính gạo, lá chuối, là ổi, gừng, hành tím, tỏi, riềng, ớt, các loại gia vị"
+    }
+]
