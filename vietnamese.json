@@ -1,4 +1,4 @@
-[
+ [
     {
         "name": "Bánh chưng",
         "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-bac-1.jpg",
@@ -8,7 +8,7 @@
 
     {
         "name": "Xôi gấc",
-        "imgUrl":"https://cdn.nguyenkimmall.com/images/companies/_1/tin-tuc/kinh-nghiem-meo-hay/n%E1%BA%A5u%20%C4%83n/mon-an-ngay-tet-mien-bac-2.jpg",
+        "imgUrl":"https://statics.vincom.com.vn/xu-huong/0-0-0-mon-an-ngay-tet/image59.png",
 
         "description": "Xôi gấc được nấu từ gạo nếp ngon trộn lẫn với thịt quả gấc tươi rồi cho vào nồi hấp. Sau khi xôi chín sẽ có màu đỏ tươi rất đẹp mắt, thơm ngon mà lại rất bổ dưỡng với hàm lượng vitamin A cao.",
         "materials":"Nguyên liệu: gấc, gạo nếp, nước cốt dừa, đường, muối, 2 muỗng canh rượu trắng, dầu mè"
@@ -45,14 +45,45 @@
         "description": "Thịt nấu đông là một món ăn thơm ngon và hấp dẫn, thường là món ăn để đãi khách trong các dịp Tết. Thịt đông khi ăn có vị ngọt mềm, màu trong veo đẹp mắt, gia vị hoà quyện tạo nên một món ăn hài hoà.",
         "materials":"Nguyên liệu: thịt chân giò rút xương, tai heo, nấm hương, mộc nhĩ, bắp hạt, cà rốt, hành tím, gừng, hành lá, ngò rí, tỏi, ớt, dầu ăn"
     }, {
-        "imgUrl":"",
+        "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Che_kho_1.jpg",
         "name": "Chè kho",
         "description": "Chè kho là món ăn đặc trưng được nhiều gia đình miền Bắc lựa chọn vào các dịp lễ Tết. Món ăn này được tạo nên từ 2 nguyên liệu chính là đậu xanh và đường. Sự hòa quyện của 2 nguyên liệu này đã khiến người ăn khó cưỡng lại trước sự hấp dẫn mà món chè kho mang lại",
         "materials":"Nguyên liệu: đậu xanh cả vỏ, nước cốt dừa, đường, muối"
     }, {
-        "imgUrl":"",
+        "imgUrl":"https://cdn.tgdd.vn/Files/2020/03/15/1242274/tre-mon-ngon-doc-dao-dac-san-dat-vo-binh-dinh-7.jpg",
         "name": "Tré",
         "description": "Tré là món ăn xuất phát từ cung đình và chỉ dành cho các bậc vua chúa vương giả. Ngày nay, người ta quan niệm rằng ăn tré trong ngày Tết sẽ tạo được bầu không khí ấm cúng, sum vầy trong gia đình. ",
         "materials": "Nguyên liệu: tai heo, thịt ba chỉ, da heo,mè rang, thính gạo, lá chuối, là ổi, gừng, hành tím, tỏi, riềng, ớt, các loại gia vị"
+    },
+    {
+        "imgUrl": "https://statics.vincom.com.vn/xu-huong/0-0-0-mon-an-ngay-tet/image8.png",
+        "name": "Măng khô hầm chân giò",
+        "description": "Trong mâm cỗ ngày tết miền Bắc truyền thống mà không nhắc tới món măng khô hầm chân giò thì thật là một thiếu sót lớn. Món ăn này tuy đơn giản nhưng lại chất chứa hơi thở của dân tộc, là món ăn gợi sự ấm áp trong những ngày xuân sum vầy.",
+        "materials": "Nguyên liệu: giò heo, măng khô, nước, nước dừa tươi, hành lá, gia vị"
+    }, {
+    "imgUrl": "https://statics.vincom.com.vn/xu-huong/0-0-0-mon-an-ngay-tet/image16.png",
+    "name": "Bò kho mật mía",
+    "description": "Với người miền Trung, đặc biệt là người dân xứ Nghệ, bò kho mật mía là món lai rai không thể thiếu trong những ngày Tết. Chính hương vị bò dai giòn cùng vị cay nồng của sả, ớt và mùi thơm dịu của mật mía đã làm nên nét đặc sắc riêng cho món ăn đậm chất vùng miền này.",
+    "materials":"Nguyên liệu: thịt bắp bò hoặc bò gân, nước chè xanh, nước mắm, mật mía, gừng, tỏi,sả, hoa hồi, thanh quế, bột tạo màu, ớt tươi, tiêu, dầu điều, hành khô"  
+    }, {
+    "imgUrl": "https://statics.vincom.com.vn/xu-huong/0-0-0-mon-an-ngay-tet/image33.png",
+    "name": "Gỏi gà xé phay",
+    "description": "Gỏi gà xé phay là một trong những món ăn đặc trưng trong mâm cỗ của người miền Nam. Gỏi thường được bóp cùng với hành tây, thêm ít ớt, đậu phộng rang, rau răm,... và có thể ăn kèm với bánh đa",
+    "materials": "Nguyên liệu: ức/đùi gà, ngó sen, hành tây, dưa leo, cà rốt, đậu phộng rang chín, rau răm, chanh, tỏi, ớt, gừng..."
+    }, {
+    "imgUrl": "https://statics.vincom.com.vn/xu-huong/0-0-0-mon-an-ngay-tet/image42-1668525383.png",
+    "name": "Mứt dừa",
+    "description": "Mứt dừa là món mứt tết truyền thống không những thơm ngon, ngọt bùi mà còn mang ý nghĩa sum vầy hạnh phúc cho cả gia đình, bạn bè trong năm mới. ",
+    "materials": "Nguyên liệu: cùi dừa, đường trắng, sữa tươi, chanh, vani"
+    }, {
+    "imgUrl": "https://statics.vincom.com.vn/xu-huong/0-0-0-mon-an-ngay-tet/image20.png",
+    "name": "Bánh gai",
+    "description": "Bánh gai đã đi vào tiềm thức như một nét truyền thống văn hóa không thể thiếu được đối với người dân miền Nam. Bởi khi nhắc đến Tết là mọi người lại rục rịch chuẩn bị đồ và nguyên liệu để làm bánh gai bên cạnh bánh chưng truyền thống của dân tộc Việt.",
+    "materials": "Nguyên liệu: gạo nếp, lá gai khô, đậu xanh, dừa nạo, lá chuối khô, tro bếp củi, mè trắng, đường"
+    }, {
+    "imgUrl": "https://statics.vincom.com.vn/xu-huong/image7-1668528111.png",
+    "name": "Gà nướng lá quế",
+    "description": "Gà nướng lá quế là món nướng vô cùng hấp dẫn và quen thuộc trong các ngày Tết  hay tụ họp gia đình. Món ăn này có lớp da gà vàng đẹp mắt, thịt gà bên trong mềm ngọt, thấm gia vị thơm ngon.",
+    "materials": "Nguyên liệu: thịt gà, lá quế tươi, củ hồi, củ hành tây, lá húng tây, chanh, trứng gà, gừng..."
     }
 ]

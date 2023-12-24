@@ -11,39 +11,92 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="./styles.css" />
+    <link
+      rel="stylesheet"
+      href="./font-icons/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
   </head>
   <body>
     <!-- nav bar -->
     <div class="header-title">
       <h1><span>Tet</span>Foodie</h1>
     </div>
-    <ul class="nav nav-tabs">
+    <ul class="nav nav-underline">
       <li class="nav-item">
         <a class="nav-link active" aria-current="page" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Vietnam</a>
+        <a
+          class="nav-link"
+          href="http://127.0.0.1:5500/san_pham_cuoi_khoa/vietnamese.html"
+          title="dẫn tới trang con Vietnamese"
+          >Vietnamese</a
+        >
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Chinese</a>
+        <a
+          class="nav-link"
+          href="http://127.0.0.1:5500/san_pham_cuoi_khoa/chinese.html"
+          title="dẫn tới trang con Chinese"
+          >Chinese</a
+        >
       </li>
+
       <li class="nav-item">
-        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        <a class="nav-link" href="http://127.0.0.1:5500/san_pham_cuoi_khoa/sign-up%20form.html"
+          ><i class="fa fa-user-circle-o" aria-hidden="true"></i
+        ></a>
       </li>
     </ul>
-    <!-- nội dung -->
- 
-    <div id="Vietnamese" class="row row-cols-1 row-cols-md-3 g-4 card-group">
-      <div class="col">
-        <div class="card h-100">
-          <img />
-          <div class="card-body">
-            <h5></h5>
-            <p></p>
+    <!-- home content -->
+          <!-- background + search -->
+    <div class="background-search">
+<img class="background-image" src="./image/image.jpg" alt="ảnh tết">
+<div class="search-bar">
+
+<input id="search" type="text" value="" placeholder="Enter the keyword" class="searchform-text" action="">
+<button id="search-button">Search</button>
+</div>
+</div>
+          <!-- introduction about Tet holiday -->
+          <div class="row row-cols-1 row-cols-md-2 g-4">
+            <div class="col">
+              <div class="card">
+                <img src="./image/originate.jpg" class="card-img-top" alt="originate">
+                <div class="card-body">
+                  <h5 class="card-title"><a class="home-content-title" href="http://127.0.0.1:5500/san_pham_cuoi_khoa/content.html">Nguồn Gốc Ngày Tết Nguyên Đán</a></h5>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="" class="card-img-top" alt="">
+                <div class="card-body">
+                  <h5 class="card-title"></h5>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
-    </div>
     <!-- footer -->
     <footer>
       <div class="footer-content">
@@ -52,10 +105,10 @@
         </div>
         <div class="footer-links">
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Vietnam</a></li>
-            <li><a href="#">Chinese</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/index.html#">Home</a></li>
+            <li><a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/vietnamese.html">Vietnam</a></li>
+            <li><a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/chinese.html">Chinese</a></li>
+            
           </ul>
         </div>
       </div>
@@ -66,6 +119,6 @@
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
       crossorigin="anonymous"
     ></script>
-    <script src="./script.js"></script>
+    
   </body>
 </html>
