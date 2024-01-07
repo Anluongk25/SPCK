@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lunar New Year</title>
+    <title>TetFoodie_Trang chủ</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -19,17 +19,24 @@
   <body>
     <!-- nav bar -->
     <div class="header-title">
-      <h1><span>Tet</span>Foodie</h1>
+      <h1 class="web-title"><span>Tet</span>Foodie</h1>
     </div>
     <ul class="nav nav-underline">
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="#">Home</a>
+        <a
+          class="nav-link active"
+          aria-current="page"
+          href="#"
+          style="color: #f57d00"
+          >Home</a
+        >
       </li>
       <li class="nav-item">
         <a
           class="nav-link"
           href="http://127.0.0.1:5500/san_pham_cuoi_khoa/vietnamese.html"
           title="dẫn tới trang con Vietnamese"
+          style="color: #ff9966"
           >Vietnamese</a
         >
       </li>
@@ -38,77 +45,120 @@
           class="nav-link"
           href="http://127.0.0.1:5500/san_pham_cuoi_khoa/chinese.html"
           title="dẫn tới trang con Chinese"
+          style="color: #ff9966"
           >Chinese</a
         >
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="http://127.0.0.1:5500/san_pham_cuoi_khoa/sign-up%20form.html"
+        <a
+          class="nav-link"
+          href="http://127.0.0.1:5500/san_pham_cuoi_khoa/sign-up%20form.html"
+          style="color: #ff9966"
           ><i class="fa fa-user-circle-o" aria-hidden="true"></i
         ></a>
       </li>
     </ul>
     <!-- home content -->
-          <!-- background + search -->
+    <!-- background + search -->
     <div class="background-search">
-<img class="background-image" src="./image/image.jpg" alt="ảnh tết">
-<div class="search-bar">
-
-<input id="search" type="text" value="" placeholder="Enter the keyword" class="searchform-text" action="">
-<button id="search-button">Search</button>
-</div>
-</div>
-          <!-- introduction about Tet holiday -->
-          <div class="row row-cols-1 row-cols-md-2 g-4">
-            <div class="col">
-              <div class="card">
-                <img src="./image/originate.jpg" class="card-img-top" alt="originate">
-                <div class="card-body">
-                  <h5 class="card-title"><a class="home-content-title" href="http://127.0.0.1:5500/san_pham_cuoi_khoa/content.html">Nguồn Gốc Ngày Tết Nguyên Đán</a></h5>
-                  
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card">
-                <img src="" class="card-img-top" alt="">
-                <div class="card-body">
-                  <h5 class="card-title"></h5>
-                  
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  
-                </div>
-              </div>
-            </div>
+      <img class="background-image" src="./image/image.jpg" alt="ảnh tết" />
+      <div class="search-bar">
+        <input
+          id="search"
+          type="text"
+          value=""
+          placeholder="Enter the keyword"
+          class="searchform-text"
+          action=""
+        />
+        <button id="search-button">Search</button>
+      </div>
+    </div>
+    <!-- introduction about Tet holiday -->
+    <div class="home-content-card-group row row-cols-1 row-cols-md-2 g-4">
+      <div class="col">
+        <div class="card">
+          <img
+            src="./image/originate.jpg"
+            class="card-img-top"
+            alt="originate"
+          />
+          <div class="card-body">
+            <h5 class="card-title">
+              <a
+                class="home-content-title"
+                href="http://127.0.0.1:5500/san_pham_cuoi_khoa/content1.html"
+                >Nguồn Gốc Ngày Tết Nguyên Đán</a
+              >
+            </h5>
           </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="./image/tru_tich.jpg" class="card-img-top" alt="trừ tịch" />
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/content2.html"
+                >Truyền Thuyết Đêm Trừ Tịch</a
+              >
+            </h5>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="./image/li_xi.webp" class="card-img-top" alt="lì xì" />
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/content3.html"
+                >Nguồn Gốc Và Ý Nghĩa Của Bao Lì Xì</a
+              >
+            </h5>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img
+            src="./image/thien_nga.jfif"
+            class="card-img-top"
+            alt="thiên nga"
+          />
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/content4.html"
+                >Thiên Nga Và Lễ Hội Đèn Lồng</a
+              >
+            </h5>
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- footer -->
     <footer>
       <div class="footer-content">
         <div class="footer-logo">
-          <h1><span>Tet</span>Foodie</h1>
+          <h1 class="web-title"><span>Tet</span>Foodie</h1>
         </div>
         <div class="footer-links">
           <ul>
-            <li><a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/index.html#">Home</a></li>
-            <li><a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/vietnamese.html">Vietnam</a></li>
-            <li><a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/chinese.html">Chinese</a></li>
-            
+            <li>
+              <a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/index.html#"
+                >Home</a
+              >
+            </li>
+            <li>
+              <a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/vietnamese.html"
+                >Vietnam</a
+              >
+            </li>
+            <li>
+              <a href="http://127.0.0.1:5500/san_pham_cuoi_khoa/chinese.html"
+                >Chinese</a
+              >
+            </li>
           </ul>
         </div>
       </div>
@@ -119,6 +169,5 @@
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
       crossorigin="anonymous"
     ></script>
-    
   </body>
 </html>

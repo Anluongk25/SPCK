@@ -13,6 +13,7 @@ fetch("./chinese.json")
       const divTag3 = document.createElement("div");
       const divTag4 = document.createElement("div");
       const name = document.createElement("h5");
+      
       const description = document.createElement("p");
       const materials = document.createElement("p");
       imgTag.classList.add("card-img-top");
