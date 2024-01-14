@@ -182,3 +182,49 @@ input {
     background-color: #45a049;
 }
 /* RESPONSIVE */
+    /* for mobile phone */
+    @media (max-width: 576px) {
+        .col{
+            margin: 0;
+            border: 0;
+            width: 360px;
+        }
+        .row .row-cols-1 .row-cols-md-2 .g-4{
+            margin: 0;
+        }
+        .card {
+            width: 300px;
+        
+        }
+        .background-image{
+            margin-left: 5px;
+        }
+        #Vietnamese{
+            width: 300px;
+            margin-left: 110px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            
+        }
+        #Chinese{
+            width: 300px;
+        margin-left: 110px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        }
+        
+    }
+/* tablet */
+    /* for ipad mini */
+    @media (min-width: 576px) and (max-width: 768px) {
+        .card{
+            width: 300px;
+        }
+        .col{
+            width: 400px;
+        }
+        .background-image{
+            margin-left: 5px;
+        }
+    }  
+    /* for ipad pro */

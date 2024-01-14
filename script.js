@@ -13,6 +13,10 @@ document.getElementById("submit").addEventListener("click", function () {
   accounts.push(account);
   localStorage.setItem("accounts", JSON.stringify(accounts));
 });
+// hàm chuyển về trang chủ
+function redirectToHome() {
+  window.location.href = "http://127.0.0.1:5500/san_pham_cuoi_khoa/index.html#";
+}
 // kiểm tra tài khoản đã có trên local storage chưa
 function checkLogin() {
   const storedAccounts = JSON.parse(localStorage.getItem("accounts")) || [];
@@ -22,11 +26,11 @@ function checkLogin() {
   //kiểm tra tài khoản đã tồn tại trong local storage chưa
   const foundAccount = storedAccounts.find(
     (account) =>
-      account.name === enteredUsername &&
-      account.password === enteredPassword
+      account.name === enteredUsername && account.password === enteredPassword
   );
   if (foundAccount) {
     alert("Bạn đã đăng nhập thành công.");
+    redirectToHome();
   } else {
     alert("Bạn chưa đăng ký tài khoản.");
   }
